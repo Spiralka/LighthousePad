@@ -48,7 +48,7 @@ This macropad is a simple and practical device built for everyday use and learni
    ![Painting the Case](https://i.imgur.com/lOf5ITX.jpeg)  
 
 2. **Soldering the Wires**  
-   A look inside the device, showing how everything is soldered and connected.  
+   A look inside the device, showing how everything is soldered and connected. The HW-040 encoders require 5V to operate properly, but I powered them from the 3.3V pin on the Arduino, which is not the best solution. It works, but keep this in mind if you're planning to replicate the project.  
    ![Soldering the Wires](https://i.imgur.com/LkzoTzs.jpeg)  
 
 3. **Finished Device**  
