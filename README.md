@@ -14,7 +14,7 @@ This macropad is a simple and practical device built for everyday use and learni
 - A few wires
 - Keyboard switches
 - Encoders HW-040
-- 2 neodymium magnets 6x3 mm
+- 4 neodymium magnets 6x3 mm
 - Some soldering skills
 - 3D printer (or a service for 3D printing)
 
